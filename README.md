@@ -1,6 +1,6 @@
 # Hi, I'm Yvonnie Jude Mazo 👋
 
-I'm an aspiring programmer and lifelong learner. I recently completed **CS50's Introduction to Computer Science**, gaining strong foundations in Python, Java, JavaScript, C, and problem-solving.
+I'm an aspiring programmer and lifelong learner. I recently completed **CS50's Introduction to Computer Science**, gaining strong foundations in Python, Java, C, Full-Stack Web Development (HTML, CSS, JS), and problem-solving.
 
 ---
 
