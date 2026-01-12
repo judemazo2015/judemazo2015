@@ -6,7 +6,6 @@ I'm an aspiring programmer and lifelong learner. I recently completed **CS50's I
 
 ## 🔹 About Me
 - 💻 Passionate about programming, and love problem-solving!
-- 🐍 Python enthusiast but also currently learning Java and JS.
 - 🌱 Currently expanding my skills in web development and full-stack projects
 - 📫 Reach me: judemazo2015@gmail.com
 
