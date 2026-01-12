@@ -15,6 +15,6 @@ I'm an aspiring programmer and lifelong learner. I recently completed **CS50's I
 ## 🏆 Certifications
 
 [CS50 Certificate](https://certificates.cs50.io/8265ddf3-c7b7-4ddc-ba25-8a33a3325bbe.pdf)
-[MOOC.fi Java Programming I] (https://certificates.mooc.fi/validate/gxjr1o6p8jp)
+[MOOC.fi Java Programming I](https://certificates.mooc.fi/validate/gxjr1o6p8jp)
 
 
